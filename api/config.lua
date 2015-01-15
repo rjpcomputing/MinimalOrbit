@@ -14,7 +14,7 @@ local Config =
 		driver			= "sqlite3",
 		connData		= { "minimalrest_sandbox.db" },
 --		driver			= "postgres",
---		connData		= { "visiondb_production", "vdb_readonly", "gentex", "zvm90-debian76.gentex.com" },
+--		connData		= { "minimalrest_production", "restuser", "simplepassword", "server.com" },
 	},
 	queries =
 	{
